@@ -1,0 +1,13 @@
+APP_HOST: # e.g. http[s]://[ example.tld | {ip addr}:{port}]
+APP_PORT: # port
+
+DB_HOST: # example.tld | {ip addr} | localhost
+DB_PORT: # port
+DB_USER: # db user name
+DB_PASSWORD: # db pass
+DB_NAME: # db name
+
+REDIS_HOST: # example.tld | {ip addr} | localhost
+REDIS_PORT: # port
+
+STATIC_FILE_DIR: # e.g. ./**/*
