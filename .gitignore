@@ -1,0 +1,4 @@
+plugins
+configs/*.default.yaml
+package/Public
+**/*/node_modules
