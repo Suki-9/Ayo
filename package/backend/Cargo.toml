@@ -1,0 +1,10 @@
+[package]
+name = "backend"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+panic = 'abort'
+
+[dependencies]
+tokio = { version = "1.34.0", features = ["full"] }
