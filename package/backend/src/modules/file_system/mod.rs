@@ -1,3 +1,6 @@
+mod file;
+pub use file::File;
+
 mod dir;
 pub use dir::Group;
 
