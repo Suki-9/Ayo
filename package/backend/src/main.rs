@@ -1,5 +1,7 @@
 mod config;
 mod modules;
+mod server;
+
 use modules::database;
 
 #[tokio::main]
